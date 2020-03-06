@@ -1,0 +1,17 @@
+.sidebar{
+    width: 100% !important;
+    margin-bottom: 3px !important;
+    text-transform: none !important;
+    background-color: rgba(222, 233, 247, 0.911) !important;
+    font-size: 20px !important;
+    text-align: center !important;
+    height:40px !important;
+    
+}
+.sidebar:hover{
+    background-color:#007dba !important;
+}
+.Linksider{
+    color:black !important;
+    list-style-type: none;
+}
